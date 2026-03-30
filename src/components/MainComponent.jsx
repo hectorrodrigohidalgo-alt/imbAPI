@@ -1,4 +1,4 @@
-import FormBuscador from "./Formbuscador";
+import FormBuscador from "./FormBuscador";
 import Peliculas from "./Peliculas";
 
 const MainComponent = () => {
