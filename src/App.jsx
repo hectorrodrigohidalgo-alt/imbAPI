@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import FormBuscador from './components/FormBuscador'
 import Peliculas from './components/Peliculas'
-import MainComponent from './components/mainComponent'
+import MainComponent from './components/MainComponent'
 import SingleMovie from './components/singleMovie'
 
 
