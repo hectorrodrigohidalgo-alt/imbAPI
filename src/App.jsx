@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 import './App.css'
 
-import MainComponent from './components/Maincomponent'
+import MainComponent from './components/MainComponent'
 import SingleMovie from './components/Singlemovie'
 
 
